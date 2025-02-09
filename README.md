@@ -1,4 +1,4 @@
-# Temporiz_Semaforo_Botao
+# Interface_Comun_Serial
 Embarcatech: Unidade 4 - Microcontroladores / Capítulo 6 - Interfaces de Comunicação Serial (UART, SPI e I2C)
 
 ## **Descrição**
