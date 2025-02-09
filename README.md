@@ -2,7 +2,7 @@
 Embarcatech: Unidade 4 - Microcontroladores / Capítulo 6 - Interfaces de Comunicação Serial (UART, SPI e I2C)
 
 ## **Descrição**
-  Este projeto foi desenvolvido como tarefa na capacitação promovida para a EmbarcaTech e demonstra o uso das interfaces de comunicação serial (UART e I2C) no RP2040, bem como a implementação de rotinas de interrupção (IRQ).
+  Este projeto foi desenvolvido como tarefa na capacitação promovida para a EmbarcaTech e demonstra o uso das interfaces de comunicação serial (UART e I2C) no RP2040 da placa BitDogLab, bem como a implementação de rotinas de interrupção (IRQ).
 
 ## **Funcionalidades do projeto**
 - Caracteres digitados através do monitor serial do VSCode serão exibidos no display SSD1306. Caso o caracter seja um número, a representação do mesmo também será exibida na matriz 5x5 WS2812.
