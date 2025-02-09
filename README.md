@@ -13,3 +13,6 @@ Embarcatech: Unidade 4 - Microcontroladores / Capítulo 6 - Interfaces de Comuni
 - Ambiente de desenvolvimento (monitor serial) VSCode configurado com Pico SDK.
 - Kit de desenvolviento BitDogLab.
 - Cabo USB
+
+## **Vídeo de demonstração**
+- https://photos.app.goo.gl/yFxvTtQwGwAkJb819
